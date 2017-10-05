@@ -1,7 +1,7 @@
 {
   "name": "joi-es",
   "description": "Object schema validation (Spanish Version)",
-  "version": "11.1.2",
+  "version": "11.1.1",
   "homepage": "https://github.com/dedupely/joi",
   "repository": "git://github.com/dedupely/joi",
   "main": "lib/index.js",

@@ -1,6 +1,6 @@
 {
-  "name": "joi",
-  "description": "Object schema validation",
+  "name": "joi-es",
+  "description": "Object schema validation (Spanish Version)",
   "version": "11.1.1",
   "homepage": "https://github.com/hapijs/joi",
   "repository": "git://github.com/hapijs/joi",
@@ -8,7 +8,8 @@
   "keywords": [
     "hapi",
     "schema",
-    "validation"
+    "validation",
+    "spanish"
   ],
   "engines": {
     "node": ">=4.0.0"

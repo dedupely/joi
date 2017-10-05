@@ -1,6 +1,6 @@
 ![joi Logo](https://raw.github.com/hapijs/joi/master/images/joi.png)
 
-Object schema description language and validator for JavaScript objects.
+Object schema description language and validator for JavaScript objects. Spanish Version!
 
 [![npm version](https://badge.fury.io/js/joi.svg)](http://badge.fury.io/js/joi)
 [![Build Status](https://secure.travis-ci.org/hapijs/joi.svg?branch=master)](http://travis-ci.org/hapijs/joi)
